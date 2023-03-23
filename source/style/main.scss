@@ -1,0 +1,12 @@
+@use 'cores';
+
+body {
+    background-color: cores.$corSecundaria;
+}
+
+h1 {
+    color: cores.$corPrincipal;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
